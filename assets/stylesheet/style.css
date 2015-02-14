@@ -239,11 +239,11 @@ position:relative;
 }
 
 section .team-members .team-member img {
-width:80%;
+width:100%;
 }
 
 section .team-members .team-member .team-member-overlay {
-width:80%;
+width:100%;
 height:100%;
 position:absolute;
 top:0;
