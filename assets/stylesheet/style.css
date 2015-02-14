@@ -239,11 +239,11 @@ position:relative;
 }
 
 section .team-members .team-member img {
-width:100%;
+width:80%;
 }
 
 section .team-members .team-member .team-member-overlay {
-width:100%;
+width:80%;
 height:100%;
 position:absolute;
 top:0;
@@ -283,7 +283,7 @@ transition:all 350ms ease;
 }
 
 section .team-members .team-member-info {
-background:#fff;
+/*background:#fff;*/
 padding:10px 15px;
 }
 
